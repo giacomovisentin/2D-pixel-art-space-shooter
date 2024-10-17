@@ -10,3 +10,7 @@ There are also possible waves of enemy ships or swarms of asteroids that occur r
 The player has three lives, and when hit three times, the game ends with an explosion animation. Occasionally, an extra life appears on the screen, moving in a non-uniform sinusoidal pattern, making it difficult to obtain.
 
 Other locations and enemies with different behaviors had already been designed, but I didn't continue the project. Nonetheless, I am very satisfied with what I achieved and learned in such a short time.
+
+________
+
+You can see a photo or video of the gameplay of the game in the files: gameplay_photo.jpg and gameplay_photo.jpg
