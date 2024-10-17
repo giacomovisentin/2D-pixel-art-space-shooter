@@ -16,6 +16,11 @@ An image of the gameplay:
 ![Image of the game](gameplay_photo.jpg)
 
 A short video of the gameplay is available here: 
+[Guarda il video]([https://www.youtube.com/watch?v=abcdefghijk](https://youtu.be/mz66G_aKrLk?si=0EMrvxHPtnKBVm9t))
+
+
+
+
 ![Guarda il video](https://youtu.be/mz66G_aKrLk?si=0EMrvxHPtnKBVm9t)
 
 [![Guarda il video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=mz66G_aKrLk?si=0EMrvxHPtnKBVm9t)
