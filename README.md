@@ -12,10 +12,12 @@ The player has three lives, and when hit three times, the game ends with an expl
 Other locations and enemies with different behaviors had already been designed, but I didn't continue the project. Nonetheless, I am very satisfied with what I achieved and learned in such a short time.
 
 ________
-A of the gameplay:
+An image of the gameplay:
 ![Image of the game](gameplay_photo.jpg)
 
 A short video of the gameplay is available here: 
+[![Guarda il video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/mz66G_aKrLk?si=0EMrvxHPtnKBVm9t)
+
 [![Guarda il video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=mz66G_aKrLk?si=0EMrvxHPtnKBVm9t)
 
 
