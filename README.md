@@ -13,4 +13,4 @@ Other locations and enemies with different behaviors had already been designed, 
 
 ________
 
-You can see a photo or video of the gameplay of the game in the files: gameplay_photo.jpg and gameplay_photo.jpg
+You can see a photo or video of the gameplay of the game in the files: gameplay_photo.jpg and gameplay_photo.jpg. The apk of the game is available in the release section. 
