@@ -12,5 +12,6 @@ The player has three lives, and when hit three times, the game ends with an expl
 Other locations and enemies with different behaviors had already been designed, but I didn't continue the project. Nonetheless, I am very satisfied with what I achieved and learned in such a short time.
 
 ________
+![Descrizione dell'immagine](gameplay_photo.jpg)
 
 You can see a photo or video of the gameplay of the game in the files: gameplay_photo.jpg and gameplay_photo.jpg. The apk of the game is available in the release section. 
